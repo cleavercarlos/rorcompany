@@ -1,5 +1,16 @@
 # README
 
+sitio en render:
+
+https://mysite-0k9t.onrender.com/
+
+sitio en github
+https://github.com/cleavercarlos/rorcompany
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
