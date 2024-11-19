@@ -61,6 +61,6 @@ end
 
 gem "rspec-rails", "~> 7.0"
 
-gem "aws-sdk-s3", "~> 1.162"
+gem "aws-sdk-s3", "~> 1.172"
 
 gem "figaro", "~> 1.2"
